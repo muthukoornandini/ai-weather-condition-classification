@@ -1,4 +1,4 @@
-streamlit
+streamlit==1.62.0
 tensorflow==2.20.0
-numpy
-pillow
+numpy==2.2.6
+pillow==11.3.0
